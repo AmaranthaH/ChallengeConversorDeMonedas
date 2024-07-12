@@ -67,7 +67,7 @@ El cambio de 100.00 USD es 9420.00 ARS
 ```
 
 
-##API de Tasas de Cambio
+## API de Tasas de Cambio
 
 Este proyecto utiliza la API de ExchangeRate-API para obtener las tasas de cambio. Asegúrate de reemplazar la clave de API en ApiClient con tu propia clave:
 
